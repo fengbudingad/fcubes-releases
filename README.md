@@ -1,6 +1,6 @@
 # Fcubes 软件下载
 
-Fcubes 魔方模拟与创作工作台的发行仓库，提供 Windows 和 Android 安装包及更新记录。
+Fcubes 魔方模拟器的发行仓库，提供 Windows 和 Android 安装包及更新记录。
 
 ## 下载
 
