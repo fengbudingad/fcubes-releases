@@ -2,12 +2,7 @@
 
 Fcubes 魔方模拟器的发行仓库，提供 Windows 和 Android 安装包及更新记录。
 
-## 下载
-
-| 版本 | Windows x64 | Android | 更新说明 |
-| --- | --- | --- | --- |
-| 0.2.3R | [下载 ZIP](https://github.com/fengbudingad/fcubes-releases/releases/download/v0.2.3R/Fcubes-0.2.3R-win-x64.zip) | [下载 APK](https://github.com/fengbudingad/fcubes-releases/releases/download/v0.2.3R/Fcubes-0.2.3R-android.apk) | [发行说明](https://github.com/fengbudingad/fcubes-releases/releases/tag/v0.2.3R) |
-| 0.1.0R | [下载 ZIP](https://github.com/fengbudingad/fcubes-releases/releases/download/v0.1.0R/Fcubes-0.1.0-win-x64.zip) | [下载 APK](https://github.com/fengbudingad/fcubes-releases/releases/download/v0.1.0R/Fcubes-0.1.0-android.apk) | [发行说明](https://github.com/fengbudingad/fcubes-releases/releases/tag/v0.1.0R) |
+具体资源包和版本更新请点击tags
 
 
 ## 安装与数据保留
